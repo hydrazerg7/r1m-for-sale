@@ -36,13 +36,13 @@ Tasteful bolt-ons, all stay on the bike:
 - Yoshimura fender eliminator with Yoshimura plate frame
 - Custom LED Blaster-X integrated tail light (smoked)
 - Compact LED turn signals
-- Michelin Power 6 tires, plenty of tread left
+- New Michelin Power 6 tires front and rear from Performance Cycle, under 100 miles on them
 - Swingarm spools (rear-stand ready)
 - Battery tender quick-connect
 
-Recent service: oil changed spring 2025 with Yamalube full synthetic 10W-40 (done yearly), stainless magnetic drain plug, Shorai lithium iron battery new December 2021.
+Recent service: oil and filter changed early 2026 with Yamalube full synthetic 10W-40 (done yearly), stainless magnetic drain plug, Shorai lithium iron battery new December 2021.
 
-Comes with the passenger seat, front and rear paddock stands, and a battery tender.
+Comes with the passenger seat, front and rear paddock stands and the BikeMaster lithium charger. One key. Never dropped. The battery goes flat if it sits unplugged for a stretch, so it lives on the charger.
 
 Under 500 miles a year since new. Serious inquiries. Cash in hand and an M endorsement for test rides. No trades. Located in Highlands Ranch.
 ```

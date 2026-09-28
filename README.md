@@ -34,36 +34,28 @@ The M, not a base R1. 2CR generation, Silver Blu Carbon.
 - Yoshimura fender eliminator (tail tidy) + Yoshimura plate frame
 - Custom LED Blaster-X integrated tail light, smoked lens
 - Compact LED turn signals on the tail tidy
-- Michelin Power 6 tires, fresh rubber, fitted after the July 2024 photos (front and install date to confirm)
+- New Michelin Power 6 tires front and rear from Performance Cycle, under 100 miles on them
 - Blue anodized swingarm spools (rear-stand ready)
 - Battery tender quick-connect pigtail
-- Recent service: oil changed spring 2025 (Yamalube Hi-Performance full synthetic 10W-40, changed yearly) · Votex stainless magnetic drain plug, spring 2025 · Shorai LFX14L2 lithium iron battery, new December 2021, kept on a tender · filter to confirm
+- Recent service: oil and filter changed early 2026 (Yamalube Hi-Performance full synthetic 10W-40, changed yearly, ridden twice since) · Votex stainless magnetic drain plug · Shorai LFX14L2 lithium iron battery, new December 2021, kept on a tender
 
 **CONDITION**
-- Drops/tip-overs: to confirm
-- Known issues: to confirm
-- Keys/manual: to confirm
+- Drops or tip-overs: never
+- Known issues: just one. The battery goes flat if the bike sits unplugged for a stretch, so it lives on the lithium charger, which comes with the bike
+- Keys: one (all the owner was given)
 
 **INCLUDED**
 - Everything on the bike stays on the bike
-- Passenger seat
+- Passenger seat (factory CCU seat cowl stays on the bike)
 - Front and rear paddock stands
-- Battery tender (trickle charger)
+- BikeMaster lithium battery charger
 
 **Contact:** Grant, text 303-907-5870
 Serious inquiries. Cash in hand and an M endorsement for test rides. No trades.
 
 ---
 
-## Still to confirm (owner only)
-
-Search this repo for `to confirm`:
-
-| Item | Where it lives |
-|---|---|
-| Front tire (Power 6?) and the install date/mileage | Mods, Michelin Power 6 |
-| Oil filter at the spring 2025 change (Yamaha OEM?) | Mods, Recent service |
-| Drops or tip-overs, known issues, keys, manual | Condition |
+## Notes
 
 The contact line carries a text number; swap it for Messenger only if you prefer.
 Photos go in `photos/`; see `photos/README.md` for the filenames the page expects. `hero.jpg` and `front.jpg` are the July 2024 shots with the plate blurred.
