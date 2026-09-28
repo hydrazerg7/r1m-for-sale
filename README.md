@@ -25,7 +25,7 @@ The M, not a base R1. 2CR generation, Silver Blu Carbon.
 
 **FACTORY R1M EQUIPMENT**
 - Engine: 998cc CP4 crossplane inline-4, titanium connecting rods, ~200 hp, 14,000 rpm redline, 6-speed with slipper clutch and factory quickshifter (QS), 4.5 gal tank
-- Electronics: 6-axis IMU; lean-sensitive traction, slide, wheelie and launch control (TCS/SCS/LIF/LCS); 4 ride modes, 4 power maps; lean-sensitive ABS; color TFT dash with Track mode and lap timer; full LED lighting
+- Electronics: 6-axis IMU; lean-sensitive traction, slide, wheelie and launch control (TCS/SCS/LIF/LCS); 4 ride modes, 4 power maps; ABS with Unified Brake System; color TFT dash with Track mode and lap timer; full LED lighting
 - R1M-only: Öhlins ERS fork + TTX36 shock (auto and manual modes from the dash); CCU GPS datalogger + Y-TRAC app; carbon fairings, fenders and tail; brushed aluminum tank cover + polished swingarm; 200/55 rear; Silver Blu Carbon; reservation-only model
 - Chassis: aluminum Deltabox frame, magnesium subframe, magnesium 10-spoke wheels, dual 320 mm front discs with monoblock calipers, ~443 lb wet
 
@@ -34,7 +34,7 @@ The M, not a base R1. 2CR generation, Silver Blu Carbon.
 - Yoshimura fender eliminator (tail tidy) + Yoshimura plate frame
 - Custom LED Blaster-X integrated tail light, smoked lens
 - Compact LED turn signals on the tail tidy
-- Michelin Power 6 tires, fresh rubber (rear in photos; front and install date to confirm)
+- Michelin Power 6 tires, fresh rubber, fitted after the July 2024 photos (front and install date to confirm)
 - Blue anodized swingarm spools (rear-stand ready)
 - Battery tender quick-connect pigtail
 - Recent service: oil changed spring 2025 (Yamalube Hi-Performance full synthetic 10W-40, changed yearly) · Votex stainless magnetic drain plug, spring 2025 · battery on a tender, brand/date to confirm · filter to confirm

@@ -29,7 +29,7 @@ $16,900
 ```
 2016 Yamaha YZF-R1M, 4,618 miles. This is the M, not a base R1. Clean Colorado title in hand, paid off, tags through March 2027. Garage kept and lives on a tender.
 
-R1M-only kit from the factory: Öhlins semi-active Electronic Racing Suspension front and rear (set from the dash), full carbon fairings, fenders and tail, cast magnesium wheels, brushed aluminum tank and polished swingarm, and the CCU GPS datalogger with the Y-TRAC app. 998cc CP4 crossplane with titanium rods, ~200 hp, 6-axis IMU with lean-sensitive traction, slide, wheelie and launch control, quickshifter, lean-sensitive ABS.
+R1M-only kit from the factory: Öhlins semi-active Electronic Racing Suspension front and rear (set from the dash), full carbon fairings, fenders and tail, cast magnesium wheels, brushed aluminum tank and polished swingarm, and the CCU GPS datalogger with the Y-TRAC app. 998cc CP4 crossplane with titanium rods, ~200 hp, 6-axis IMU with lean-sensitive traction, slide, wheelie and launch control, quickshifter, ABS with Unified Brake System.
 
 Tasteful bolt-ons, all stay on the bike:
 - Two Brothers Racing Black Series carbon slip-on
@@ -55,7 +55,7 @@ Under 500 miles a year since new. Serious inquiries. Cash in hand and an M endor
 6. Exhaust close-up
 7. Rear tire tread and swingarm spool
 8. Tank and carbon bodywork close-up
-9. Title (cover the VIN and your address) or just say "title in hand"
+9. Öhlins fork and shock close-up
 
 Do not include the license plate number in any photo; the page and this listing leave it out on purpose.
 
