@@ -5,7 +5,7 @@ Edit the TBDs, then paste. Marketplace strips formatting, so this is written as 
 ## Title
 
 ```
-2016 Yamaha YZF-R1M — 4,618 miles, Öhlins ERS, carbon, TBR exhaust
+2016 Yamaha YZF-R1M — 4,618 miles, Öhlins ERS, full carbon, TBR slip-on
 ```
 
 ## Price
@@ -25,22 +25,22 @@ $TBD
 ## Description
 
 ```
-2016 Yamaha YZF-R1M with 4,618 miles. Clean Colorado title in hand, paid off, registered through March 2027. Garage kept and always on a battery tender.
+2016 Yamaha YZF-R1M, 4,618 miles. This is the M, not a base R1. Clean Colorado title in hand, paid off, tags through March 2027. Garage kept and lives on a tender.
 
-This is the limited R1M, not the standard R1: Öhlins Electronic Racing Suspension front and rear (adjusted from the dash), carbon fiber fairings, fenders and tail, cast magnesium wheels, brushed aluminum tank and swingarm, and the factory GPS data logger with the Y-TRAC app. 998cc crossplane inline-four with titanium rods, roughly 200 hp, 6-axis IMU with lean-sensitive traction, slide, wheelie and launch control, quick shifter, and lean-sensitive ABS.
+R1M-only kit from the factory: Öhlins semi-active Electronic Racing Suspension front and rear (set from the dash), full carbon fairings, fenders and tail, cast magnesium wheels, brushed aluminum tank and polished swingarm, and the CCU GPS datalogger with the Y-TRAC app. 998cc CP4 crossplane with titanium rods, ~200 hp, 6-axis IMU with lean-sensitive traction, slide, wheelie and launch control, quickshifter, lean-sensitive ABS.
 
-Upgrades:
-- Two Brothers Racing Black Series carbon fiber slip-on
+Tasteful bolt-ons, all stay on the bike:
+- Two Brothers Racing Black Series carbon slip-on
 - Yoshimura fender eliminator with Yoshimura plate frame
-- Compact LED rear turn signals
-- Michelin Power 6 tires
+- Custom LED Blaster-X integrated tail light (smoked)
+- Compact LED turn signals
+- Michelin Power 6 tires, plenty of tread left
 - Swingarm spools (rear-stand ready)
 - Battery tender quick-connect
 
-Recent service: TBD (oil and filter, battery, magnetic drain plug).
-Included: TBD (stock exhaust / fender / signals, tender, stand, records).
+Recent service: TBD (battery, magnetic drain plug, oil and filter).
 
-Under 500 miles a year since new. No trades. Serious buyers only; test rides with cash in hand and a motorcycle endorsement. Located in Highlands Ranch.
+Under 500 miles a year since new. Serious inquiries. Cash in hand and an M endorsement for test rides. No trades. Located in Highlands Ranch.
 ```
 
 ## Photos to post (in this order)
@@ -48,7 +48,7 @@ Under 500 miles a year since new. No trades. Serious buyers only; test rides wit
 1. Right side, full bike, clean background, good light
 2. Left side
 3. Front three-quarter
-4. Rear three-quarter showing the tail tidy and exhaust
+4. Rear three-quarter showing the tail tidy, tail light and exhaust
 5. Dash lit up showing the odometer
 6. Exhaust close-up
 7. Rear tire tread and swingarm spool
@@ -59,4 +59,4 @@ Do not include the license plate number in any photo; the page and this listing 
 
 ## Keywords buyers search
 
-`R1M` `YZF-R1M` `R1` `Yamaha R1` `superbike` `liter bike` `Öhlins` `carbon` `low miles`
+`R1M` `YZF-R1M` `R1` `Yamaha R1` `2CR` `superbike` `liter bike` `Öhlins` `carbon` `low miles`
