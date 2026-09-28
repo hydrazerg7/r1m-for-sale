@@ -11,3 +11,6 @@ node_modules/
 *.pdf
 title*
 registration*
+
+# The generated spec sheet is fine to commit
+!2016-Yamaha-YZF-R1M-spec-sheet.pdf
