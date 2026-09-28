@@ -40,7 +40,7 @@ Tasteful bolt-ons, all stay on the bike:
 - Swingarm spools (rear-stand ready)
 - Battery tender quick-connect
 
-Recent service: oil changed spring 2025 with Yamalube full synthetic 10W-40 (done yearly), stainless magnetic drain plug, battery replaced 2024, lives on a tender.
+Recent service: oil changed spring 2025 with Yamalube full synthetic 10W-40 (done yearly), stainless magnetic drain plug, Shorai lithium iron battery new December 2021.
 
 Comes with the passenger seat, front and rear paddock stands, and a battery tender.
 
