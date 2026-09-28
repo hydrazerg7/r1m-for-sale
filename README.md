@@ -17,6 +17,7 @@ The M, not a base R1. 2CR generation, Silver Blu Carbon.
 
 **WHY THIS ONE**
 - Sub-5k miles, under 500 a year since new
+- Why it's for sale: the owner can't give it the attention it deserves
 - Öhlins semi-active ERS front and rear (R1M only)
 - Full carbon bodywork + cast magnesium wheels
 - Two Brothers Racing Black Series carbon slip-on
@@ -34,7 +35,7 @@ The M, not a base R1. 2CR generation, Silver Blu Carbon.
 - Yoshimura fender eliminator (tail tidy) + Yoshimura plate frame
 - Custom LED Blaster-X integrated tail light, smoked lens
 - Compact LED turn signals on the tail tidy
-- New Michelin Power 6 tires front and rear from Performance Cycle, under 100 miles on them
+- New Michelin Power 6 tires front and rear from Performance Cycle, August 2025, under 100 miles on them
 - Blue anodized swingarm spools (rear-stand ready)
 - Battery tender quick-connect pigtail
 - Recent service: oil and filter changed early 2026 (Yamalube Hi-Performance full synthetic 10W-40, changed yearly, ridden twice since) · Votex stainless magnetic drain plug · Shorai LFX14L2 lithium iron battery, new December 2021, kept on a tender
