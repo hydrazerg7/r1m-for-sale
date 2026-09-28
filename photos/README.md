@@ -18,3 +18,5 @@ Easiest way to upload: open the `photos` folder on GitHub → **Add file → Upl
 them in → **Commit changes**. Pages redeploys within a minute or two.
 
 Tips: JPEG, long edge around 1600 px keeps the page fast. Crop the license plate out or blur it.
+
+In place now: `hero.jpg` and `front.jpg` (July 2024 shots, plate blurred). The other six are still to come.

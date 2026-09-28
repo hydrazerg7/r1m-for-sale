@@ -1,17 +1,19 @@
 # Facebook Marketplace listing (draft)
 
-Edit the TBDs, then paste. Marketplace strips formatting, so this is written as plain text.
+Ready to paste. Marketplace strips formatting, so this is written as plain text.
 
 ## Title
 
+Marketplace builds a vehicle title from Year, Make and Model. Use this line on Craigslist or CycleTrader:
+
 ```
-2016 Yamaha YZF-R1M — 4,618 miles, Öhlins ERS, full carbon, TBR slip-on
+2016 Yamaha YZF-R1M, 4,618 miles, Öhlins ERS, full carbon, TBR slip-on
 ```
 
 ## Price
 
 ```
-$TBD
+$16,900
 ```
 
 ## Category / details
@@ -38,7 +40,7 @@ Tasteful bolt-ons, all stay on the bike:
 - Swingarm spools (rear-stand ready)
 - Battery tender quick-connect
 
-Recent service: TBD (battery, magnetic drain plug, oil and filter).
+Recent service: oil changed spring 2025 with Yamalube full synthetic 10W-40 (done yearly), stainless magnetic drain plug, lives on a tender.
 
 Under 500 miles a year since new. Serious inquiries. Cash in hand and an M endorsement for test rides. No trades. Located in Highlands Ranch.
 ```

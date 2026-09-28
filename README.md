@@ -1,4 +1,4 @@
-# 2016 Yamaha YZF-R1M — for sale
+# 2016 Yamaha YZF-R1M for sale
 
 Pretty version: **https://hydrazerg7.github.io/r1m-for-sale/**
 PDF: [view](https://github.com/hydrazerg7/r1m-for-sale/blob/main/2016-Yamaha-YZF-R1M-spec-sheet.pdf) · [download](https://github.com/hydrazerg7/r1m-for-sale/raw/main/2016-Yamaha-YZF-R1M-spec-sheet.pdf)
@@ -6,11 +6,11 @@ PDF: [view](https://github.com/hydrazerg7/r1m-for-sale/blob/main/2016-Yamaha-YZF
 
 ---
 
-**2016 YAMAHA YZF-R1M — FOR SALE (Highlands Ranch, CO)**
+**2016 YAMAHA YZF-R1M FOR SALE (Highlands Ranch, CO)**
 The M, not a base R1. 2CR generation, Silver Blu Carbon.
 
 - **Miles:** 4,618
-- **Asking:** $TBD
+- **Asking:** $16,900
 - **Title:** Clean Colorado title in hand, paid off, no lien
 - **Registration:** current, tags through March 2027
 - Garage kept, lives on a tender. Serviced at Performance Cycle. Tasteful bolt-ons only.
@@ -34,35 +34,35 @@ The M, not a base R1. 2CR generation, Silver Blu Carbon.
 - Yoshimura fender eliminator (tail tidy) + Yoshimura plate frame
 - Custom LED Blaster-X integrated tail light, smoked lens
 - Compact LED turn signals on the tail tidy
-- Michelin Power 6 tires (rear confirmed; front: confirm; installed: TBD)
+- Michelin Power 6 tires, fresh rubber (rear in photos; front and install date to confirm)
 - Blue anodized swingarm spools (rear-stand ready)
 - Battery tender quick-connect pigtail
-- Recent service: battery TBD · magnetic drain plug TBD · last oil & filter TBD
+- Recent service: oil changed spring 2025 (Yamalube Hi-Performance full synthetic 10W-40, changed yearly) · Votex stainless magnetic drain plug, spring 2025 · battery on a tender, brand/date to confirm · filter to confirm
 
 **CONDITION**
-- Drops/tip-overs: TBD
-- Known issues: TBD
-- Keys/manual: TBD
+- Drops/tip-overs: to confirm
+- Known issues: to confirm
+- Keys/manual: to confirm
 - Sold as pictured: everything on the bike stays on the bike
 
-**Contact:** TBD
+**Contact:** Grant, text 303-907-5870
 Serious inquiries. Cash in hand and an M endorsement for test rides. No trades.
 
 ---
 
-## Fill these in before sending
+## Still to confirm (owner only)
 
-Search this repo for `TBD`:
+Search this repo for `to confirm`:
 
 | Item | Where it lives |
 |---|---|
-| Asking price | `index.html` hero stat, `README.md`, `LISTING.md` |
-| Front tire (Power 6?) and install date/mileage | Mods → Michelin Power 6 |
-| Battery brand/date, magnetic drain plug, last oil & filter | Mods → Recent service items |
-| Drops, known issues, keys, manual | Condition |
-| Contact line | See it |
+| Front tire (Power 6?) and the install date/mileage | Mods, Michelin Power 6 |
+| Battery brand and date | Mods, Recent service |
+| Oil filter at the spring 2025 change (Yamaha OEM?) | Mods, Recent service |
+| Drops or tip-overs, known issues, keys, manual | Condition |
 
-Photos go in `photos/` — see `photos/README.md` for the filenames the page expects.
+The contact line carries a text number; swap it for Messenger only if you prefer.
+Photos go in `photos/`; see `photos/README.md` for the filenames the page expects. `hero.jpg` and `front.jpg` are the July 2024 shots with the plate blurred.
 
 ## Hosting
 
