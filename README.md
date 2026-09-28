@@ -37,13 +37,18 @@ The M, not a base R1. 2CR generation, Silver Blu Carbon.
 - Michelin Power 6 tires, fresh rubber, fitted after the July 2024 photos (front and install date to confirm)
 - Blue anodized swingarm spools (rear-stand ready)
 - Battery tender quick-connect pigtail
-- Recent service: oil changed spring 2025 (Yamalube Hi-Performance full synthetic 10W-40, changed yearly) · Votex stainless magnetic drain plug, spring 2025 · battery on a tender, brand/date to confirm · filter to confirm
+- Recent service: oil changed spring 2025 (Yamalube Hi-Performance full synthetic 10W-40, changed yearly) · Votex stainless magnetic drain plug, spring 2025 · battery replaced 2024, brand to confirm · filter to confirm
 
 **CONDITION**
 - Drops/tip-overs: to confirm
 - Known issues: to confirm
 - Keys/manual: to confirm
-- Sold as pictured: everything on the bike stays on the bike
+
+**INCLUDED**
+- Everything on the bike stays on the bike
+- Passenger seat
+- Front and rear paddock stands
+- Battery tender (trickle charger)
 
 **Contact:** Grant, text 303-907-5870
 Serious inquiries. Cash in hand and an M endorsement for test rides. No trades.
@@ -57,7 +62,7 @@ Search this repo for `to confirm`:
 | Item | Where it lives |
 |---|---|
 | Front tire (Power 6?) and the install date/mileage | Mods, Michelin Power 6 |
-| Battery brand and date | Mods, Recent service |
+| Battery brand and exact date (Amazon order, 2024) | Mods, Recent service |
 | Oil filter at the spring 2025 change (Yamaha OEM?) | Mods, Recent service |
 | Drops or tip-overs, known issues, keys, manual | Condition |
 
