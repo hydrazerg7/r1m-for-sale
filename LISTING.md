@@ -27,7 +27,7 @@ $16,900
 ## Description
 
 ```
-2016 Yamaha YZF-R1M, 4,618 miles. This is the M, not a base R1. Clean Colorado title in hand, paid off, tags through March 2027. Garage kept and lives on a tender.
+2016 Yamaha YZF-R1M, 4,618 miles. This is the M, not a base R1. Clean Colorado title, paid off, tags through March 2027. Second owner: I bought it from the original owner in June 2021. Garage kept and lives on a tender.
 
 R1M-only kit from the factory: Öhlins semi-active Electronic Racing Suspension front and rear (set from the dash), full carbon fairings, fenders and tail, cast magnesium wheels, brushed aluminum tank and polished swingarm, and the CCU GPS datalogger with the Y-TRAC app. 998cc CP4 crossplane with titanium rods, ~200 hp, 6-axis IMU with lean-sensitive traction, slide, wheelie and launch control, quickshifter, ABS with Unified Brake System.
 
@@ -42,7 +42,7 @@ Tasteful bolt-ons, all stay on the bike:
 
 Recent service: oil and filter changed early 2026 with Yamalube full synthetic 10W-40 (done yearly), stainless magnetic drain plug, Shorai lithium iron battery new December 2021.
 
-Comes with the passenger seat, front and rear paddock stands and the BikeMaster lithium charger. One key. Never dropped. The battery goes flat if it sits unplugged for a stretch, so it lives on the charger.
+Comes with the passenger seat, front and rear paddock stands and the BikeMaster lithium charger. One key. Never dropped while I've owned it. The battery goes flat if it sits unplugged for a stretch, so it lives on the charger.
 
 Under 500 miles a year since new. Selling because I can't give it the attention it deserves. Serious inquiries. Cash in hand and an M endorsement for test rides. No trades. Located in Highlands Ranch.
 ```
